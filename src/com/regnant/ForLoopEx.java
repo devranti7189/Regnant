@@ -16,5 +16,9 @@ public class ForLoopEx {
 		}
 
 	}  
+	private void syso() {
+		System.out.println("hello everyone");
+
+	}
 
 }
