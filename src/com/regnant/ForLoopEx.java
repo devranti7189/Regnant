@@ -20,5 +20,8 @@ public class ForLoopEx {
 		System.out.println("hello everyone");
 
 	}
+	private void syso2() {
+		System.out.println("hello everyone");
 
+	}
 }
