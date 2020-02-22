@@ -24,4 +24,8 @@ public class ForLoopEx {
 		System.out.println("hello everyone");
 
 	}
+	private void syso3() {
+		System.out.println("hello everyone");
+
+	}
 }
